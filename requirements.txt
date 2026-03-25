@@ -3,3 +3,4 @@ matplotlib
 pandas
 papermill
 ipykernel
+boto3
